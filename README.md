@@ -5,7 +5,6 @@ Bem-vindo ao meu repositório central de Java! Este é um espaço versátil onde
 ## 📌 O que você encontra aqui?
 
 * **Projetos Acadêmicos:** Implementações de algoritmos, estruturas de dados e trabalhos de faculdade/cursos.
-* **Laboratório Profissional:** Mockups de sistemas, implementações de Design Patterns e boas práticas de mercado (Clean Code, SOLID).
 * **Snippets & Utilidades:** Pequenos códigos úteis para o dia a dia.
 
 ## 🛠️ Como rodar os projetos
